@@ -1,0 +1,14 @@
+---
+Standards:
+  -
+    Title: Unit 1
+    Description: This is the description. 
+    UID: cef97a00-87fa-4446-99f7-c414b14aba2e
+    SuccessCriteria:
+      - Foo
+      - Bar
+    ContentFiles:
+      -
+        Type: Lesson
+        Path: /unit-1/testable-project.md
+        UID: 58325495-598e-47ca-b3fe-82ce8d5c3f05
